@@ -1,5 +1,6 @@
 def calculator():
     print("This is My First Program")
+    print("Oman")
     print("Welcome to the Simple Calculator!")
     print("Options:")
     print("1. Addition (+)")
